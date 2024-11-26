@@ -107,3 +107,4 @@ This project needs a lot more work. There are some wonderful ideas suggested by 
     2. User selects what they're interested in
     3. This expands to show sub-topics, sub-concepts, sub-x, etc.
     4. This is how you get deep into a specialty
+"# knowledgegraph" 
